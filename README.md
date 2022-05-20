@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [DryBeans](https://github.com/AyaElsawyElghaysh/KaggleCompetition)
 
-- 🌱 I’m currently learning **ML,ComputerVisoion,DeepLearning,**
+- 🌱 I’m currently learning **ML,ComputerVision,DeepLearning,**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/AyaElsawyElghaysh](https://github.com/AyaElsawyElghaysh)

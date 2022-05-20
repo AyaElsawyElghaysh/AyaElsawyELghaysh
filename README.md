@@ -3,11 +3,8 @@
 
 - 🔭 I’m currently working on [DryBeans](https://github.com/AyaElsawyElghaysh/KaggleCompetition)
 
-- 🌱 I’m currently learning **ML,Python,SQL,**
+- 🌱 I’m currently learning **ML,ComputerVisoion,DeepLearning,**
 
-- 👯 I’m looking to collaborate on [GlobalTerrorism](https://github.com/AyaElsawyElghaysh/GlobalTerrorismHotZonesAnalysis)
-
-- 🤝 I’m looking for help with [optimazationAlg_Ml](https://github.com/AyaElsawyElghaysh/OptimizationAlghorithmsTech)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AyaElsawyElghaysh](https://github.com/AyaElsawyElghaysh)
 

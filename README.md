@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on JOBPrediction 
 
-- 🌱 I’m currently learning **ML,ComputerVision,DeepLearning,**
+- 🌱 I’m currently learning **ML,ComputerVision,DeepLearning,NLP**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/AyaElsawyElghaysh](https://github.com/AyaElsawyElghaysh)

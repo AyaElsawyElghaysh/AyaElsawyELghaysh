@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aya Elsawy</h1>
 <h3 align="center">AI | ML trainee at ITI</h3>
 
-- 🔭 I’m currently working on JOBPrediction 
+- 🔭 I’m currently working on Chatbot for healthCare
 
 - 🌱 I’m currently learning **ML,ComputerVision,DeepLearning,NLP**
 

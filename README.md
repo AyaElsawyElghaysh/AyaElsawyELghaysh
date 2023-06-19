@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aya Elsawy</h1>
 
 
-- 🔭 I’m currently working on Chatbot for healthCare
-
 - 🌱 I’m currently learning **ML,ComputerVision,DeepLearning,NLP**
 
 
